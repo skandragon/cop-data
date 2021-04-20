@@ -1,0 +1,91 @@
+IA No,Occurred date,Occurred time,Day of Week,Service Rendered,Use-of-force: Reason,Type(s) of Force,Officer ID,Officer Injured,Officer to Hospital,Years Employed,Officer Age,Race,Sex,Disposition,Ofc Assessment of Cit Condition,Citizen was Arrested,Citizen was Injured,Citizen went to Hospiatl,Race,Sex
+UF2018-062,12/20/2018,11:35:00 AM,Thursday,Warrant Service,Active Resister Armed,Compliance Hold,14,No,No,2,38,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2018-062,12/20/2018,11:35:00 AM,Thursday,Warrant Service,Active Resister Armed,Leg Sweep/ compliance hold,16,No,No,2,27,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-001,12/28/2018,3:18:00 AM,Friday,Suspicious Person,Active Resister Unarmed,Arm bar/ verbal commands,13,No,No,3,30,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,Unknown,Female
+UF2019-001,12/28/2018,3:18:00 AM,Friday,Suspicious Person,Active Resister Unarmed,arm bar/ compliance hold/ verbal commands,1,No,No,9,38,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,Unknown,Female
+UF2019-002,11/1/2018,10:59:00 PM,Thursday,Traffic Stop,Active Fleeing,Taser,8,No,No,4,30,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-002,11/1/2018,10:59:00 PM,Thursday,Traffic Stop,Active Fleeing,verbal commands,20,No,No,0,30,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-003,12/24/2018,6:48:00 PM,Monday,Disturbance,Active Resister Unarmed,compliance hold,11,Yes,No,3,27,Asian,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-004,1/11/2019,12:40:00 AM,Friday,Disturbance,Active Resister Armed,bean bag ,2,No,No,9,34,Black,Male,No Misconduct,Impairment - Alcohol,No,Yes,Yes,Native Am,Male
+UF2019-005,1/18/2019,2:10:00 AM,Friday,Disturbance,Active Resister Unarmed,arm bar,7,No,No,4,29,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-005,1/18/2019,2:10:00 AM,Friday,Disturbance,Active Resister Unarmed,arm bar,9,No,No,3,34,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-006,1/18/2019,6:15:00 PM,Friday,Drug Investigation,Active Fleeing,tackle,3,No,No,7,32,White,Male,No Misconduct,None Detected,Yes,Yes,Yes,White,Female
+UF2019-007,1/20/2019,10:57:00 PM,Sunday,Arrest,Active Resister Unarmed,Taser,9,No,No,3,34,White,Male,No Misconduct,Impairment - Alcohol,Yes,No,Yes,Black,Male
+UF2019-008,1/20/2019,3:52:00 AM,Sunday,Arrest,Active Resister Armed,Taser,8,No,No,4,30,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-009,1/3/2019,2:09:00 AM,Thursday,Traffic Stop,Active Fleeing,Taser,8,No,No,4,30,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,White,Male
+UF2019-010,1/21/2019,8:30:00 AM,Monday,Suspicious Person,Active Resister Armed,Taser,12,No,No,3,31,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,White,Male
+UF2019-011,1/21/2019,6:20:00 PM,Monday,911 call,Active Fleeing,arm bar,6,No,No,5,29,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-012,1/20/2019,10:15:00 PM,Sunday,Disturbance,Active Resister Unarmed,verbal commands/ complaince hold,6,No,No,5,29,White,Male,Exceptional,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-012,1/20/2019,10:15:00 PM,Sunday,Disturbance,Active Resister Unarmed,verbal commands,17,No,No,2,25,White,Male,Exceptional,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-012,1/20/2019,10:15:00 PM,Sunday,Disturbance,Active Resister Unarmed,tackle/ verbal commands,19,No,No,1,28,White,Male,Exceptional,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-013,1/20/2019,10:05:00 PM,Sunday,Disturbance,Active Resister Unarmed,verbal commands/ strike w hand-foot,19,No,No,1,28,White,Male,Exceptional,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-013,1/20/2019,10:05:00 PM,Sunday,Disturbance,Active Resister Unarmed,verbal commands/ complaince hold,17,No,No,2,25,White,Male,Exceptional,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-013,1/20/2019,10:05:00 PM,Sunday,Disturbance,Active Resister Unarmed,verbal commands/ complaince hold,6,No,No,5,29,White,Male,Exceptional,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-014,2/3/2019,11:00:00 AM,Sunday,Warrant Service,Active Fleeing,strike w hand-foot/ firearm pointing,4,Yes,No,5,32,Native Am,Male,No Misconduct,None Detected,Yes,Yes,Yes,White,Male
+UF2019-014,2/3/2019,11:00:00 AM,Sunday,Warrant Service,Active Fleeing,tackle/ verbal commands/ complaince hold,21,Yes,No,1,28,Black,Male,No Misconduct,None Detected,Yes,Yes,Yes,White,Male
+UF2019-015,2/23/2019,1:42:00 AM,Saturday,Fight Call,Passive Non Compliant,complaince hold,15,No,No,2,28,White,Male,No Misconduct,Impairment - Alcohol,No,No,No,Black,Male
+UF2019-016,3/8/2019,2:16:00 AM,Friday,Disturbance,Active Resister Unarmed,taser pointing/ arm bar,2,Yes,No,9,34,Black,Male,No Misconduct,Impairment - Alcohol,Yes,No,No,Unknwon,Male
+UF2019-017,2/24/2019,3:50:00 PM,Sunday,Traffic Stop,Passive Non Compliant,fireamr pointing,18,No,No,1,31,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,White,Male
+UF2019-017,2/24/2019,3:50:00 PM,Sunday,Traffic Stop,Passive Non Compliant,baton strike,10,No,No,3,29,Black,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,White,Male
+UF2019-018,2/10/2019,6:56:00 PM,Sunday,Disturbance,Destructive Self/Others,compliance hold,11,No,No,3,28,Asian,Male,No Misconduct,Impairment - Alcohol and Drugs,No,Yes,Yes,White,Female
+UF2019-018,2/10/2019,6:56:00 PM,Sunday,Disturbance,Destructive Self/Others,arm bar,5,No,No,6,32,White,Male,No Misconduct,Impairment - Alcohol and Drugs,No,Yes,Yes,White,Female
+UF2019-031,6/11/2019,10:15:00 AM,Tuesday,Arrest,Active Resister Unarmed,Arm Bar,22,No,No,20,44,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,No,Black,Male
+UF2019-031,6/11/2019,10:15:00 AM,Tuesday,Arrest,Active Resister Unarmed,Vascular restraint,23,No,No,15,38,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,No,Black,Male
+UF2019-022,4/4/2019,1:50:00 PM,Thursday,Protective Custody,Active Resister Unarmed,Pressure point,24,Yes,No,12,38,White,Male,No Misconduct,Mental Health,Yes,Yes,Yes,White,Male
+UF2019-020,4/13/2019,2:01:00 AM,Saturday,Fight Call,Active Resister Unarmed,Taser,2,No,No,9,34,Black,Male,No Misconduct,Impairment - Alcohol,Yes,No,No,Black,Male
+UF2019-024,1/16/2019,5:00:00 AM,Wednesday,Contact a Subject,Active Fleeing,Taser,25,No,No,8,36,White,Male,No Misconduct,Impairment - Drug,Yes,No,No,White,Male
+UF2019-021,4/4/2019,5:15:00 AM,Thursday,Disturbance,Active Resister Unarmed,Physical restraint,27,No,No,7,37,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,Native Am,Male
+UF2019-026,4/6/2019,10:59:00 PM,Saturday,Assisting Other Agency,Active Fleeing,Taser,8,Yes,No,4,31,White,Male,No Misconduct,None Detected,Yes,No,Yes,White,Male
+UF2019-029,5/15/2019,2:45:00 PM,Wednesday,Protective Custody,Destructive Self/Others,Hand strike,28,Yes,Yes,4,48,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,White,Male
+UF2019-022,4/4/2019,1:50:00 PM,Thursday,Protective Custody,Active Resister Unarmed,Vascular restraint,29,Yes,No,2,39,White,Female,No Misconduct,Mental Health,Yes,Yes,Yes,White,Male
+UF2019-027,5/4/2019,8:30:00 AM,Saturday,Suspicious Person,Passive Non Compliant,"Taser, pointing firearm",29,Yes,Yes,2,39,White,Female,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,White,Male
+UF2019-028,5/4/2019,8:45:00 AM,Saturday,Suspicious Person,Active Resister Unarmed,Taser Pointing Firearm,29,Yes,Yes,2,39,White,Female,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,White,Male
+UF2019-023,4/6/2019,9:58:00 AM,Saturday,Warrant Service,Active Fleeing,Compliance hold,30,No,No,2,25,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,White,Female
+UF2019-030,4/6/2019,10:30:00 AM,Saturday,Suspicious Person,Active Fleeing,Taser,31,No,No,2,32,Vietnamese,Male,No Misconduct,None given,Yes,No,No,White,Male
+UF2019-019,3/18/2019,9:35:00 AM,Monday,Arrest,Active Resister Unarmed,Elbow Strike,18,No,No,1,31,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Female
+UF2019-027,5/4/2019,8:30:00 AM,Saturday,Suspicious Person,Passive Non Compliant,"Vascular restraint, handstrike",32,Yes,Yes,0,32,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,White,Male
+UF2019-028,5/4/2019,8:45:00 AM,Saturday,Suspicious Person,Active Resister Unarmed,"Vascular restraint, handstrike",32,Yes,Yes,0,31,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,White,Male
+UF2019-025,4/5/2019,2:10:00 AM,Friday,Fight Call,Active Resister Unarmed,Taser,34,No,No,0,31,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,Native Am,Male
+UF2019-024,1/16/2019,5:00:00 AM,Wednesday,Contact a Subject,Active Fleeing,Compliance hold,46,No,No,0,35,White,Male,No Misconduct,Impairment - Drug,Yes,No,No,White,Male
+UF2019-032,5/26/2019,1:29:00 AM,Sunday,Arrest,Destructive Self/Others,Compliance Hold,6,Yes,No,5,29,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-032,5/26/2019,1:29:00 AM,Sunday,Arrest,Destructive Self/Others,Compliance Hold,9,Yes,No,3,34,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-032,5/26/2019,1:29:00 AM,Sunday,Arrest,Destructive Self/Others,Compliance Hold,11,Yes,No,3,28,Asian,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-032,5/26/2019,1:29:00 AM,Sunday,Arrest,Destructive Self/Others,"Compliance Hold, leg sweep",17,Yes,No,2,25,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,White,Male
+UF2019-034,6/30/2019,1:35:00 AM,Sunday,Disturbance,Active Resister Unarmed,Compliance Hold,6,Yes,No,5,29,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,Hispanic,Male
+UF2019-034,6/30/2019,1:35:00 AM,Sunday,Disturbance,Active Resister Unarmed,Compliance Hold,9,Yes,No,3,34,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,Hispanic,Male
+UF2019-034,6/30/2019,1:35:00 AM,Sunday,Disturbance,Active Resister Unarmed,"Compliance Hold, leg sweep",17,Yes,No,2,25,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,Hispanic,Male
+UF2019-035,6/30/2019,9:00:00 AM,Sunday,Welfare Check,Active Resister Unarmed,Verbal Commands,37,No,No,7,33,White,Male,No Misconduct,Impairment - Drug,No,Yes,Yes,White,Male
+UF2019-035,6/30/2019,9:00:00 AM,Sunday,Welfare Check,Active Resister Unarmed,Tackle,9,No,No,3,34,White,Male,No Misconduct,Impairment - Drug,No,Yes,Yes,White,Male
+UF2019-036,6/25/2019,11:17:00 AM,Tuesday,Fight Call,Passive Non Compliant,Restraint device,24,Yes,Yes,13,39,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,Unknown,Male
+UF2019-036,6/25/2019,11:17:00 AM,Tuesday,Fight Call,Passive Non Compliant,"Verbal, Tackle, Taser",37,Yes,Yes,7,33,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,Unknown,Male
+UF2019-036,6/25/2019,11:17:00 AM,Tuesday,Fight Call,Passive Non Compliant,Taser,45,Yes,Yes,0,27,White,Female,No Misconduct,Impairment - Drug,Yes,Yes,Yes,Unknown,Male
+UF2019-037,6/26/2019,1:30:00 PM,Wednesday,Arrest,No Force (Complaint of Inj),Complaint of injury,39,No,No,2,29,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,Black,Female
+UF2019-038,8/7/2019,5:31:00 PM,Wednesday,Arrest,Active Resister Unarmed,Strike,35,No,No,9,34,White,Male,Exceptional,Impairment - Alcohol and Drugs,Yes,Yes,Yes,Hispanic,Male
+UF2019-039,6/5/2019,2:34:00 PM,Wednesday,Investigation,Active Resister Unarmed,Compliance hold,35,Yes,No,9,33,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-039,6/5/2019,2:34:00 PM,Wednesday,Investigation,Active Resister Unarmed,"Tackle, vascular restraint, strike",36,Yes,No,9,41,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,White,Male
+UF2019-040,8/17/2019,2:00:00 AM,Saturday,Fight Call,Active Resister Armed,"Vascular restraint, compliance hold, leg sweep, tackle, verbal commands",1,Yes,Yes,10,39,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,No,No,White,Male
+UF2019-041,8/4/2019,12:00:00 AM,Saturday,Protective Custody,Passive Non Compliant,Taser,41,No,No,2,32,White,Male,No Misconduct,Mental Health,Yes,Yes,Yes,White,Male
+UF2019-042,8/2/2019,9:55:00 PM,Friday,Protective Custody,Destructive Self/Others,Bean Bag shotgun,1,No,No,10,39,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,White,Male
+UF2019-044,7/12/2019,12:08:00 AM,Friday,Welfare Check,Active Resister Unarmed,Arm Bar,43,Yes,No,1,27,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,White,Female
+UF2019-045,8/24/2019,3:11:00 AM,Saturday,Disturbance,Active Resister Armed,Strike,38,Yes,Yes,7,50,White,Male,No Misconduct,Impairment - Drug,Yes,No,Yes,White,Female
+UF2019-045,8/24/2019,3:11:00 AM,Saturday,Disturbance,Active Resister Armed,Strike,27,Yes,Yes,7,37,White,Male,No Misconduct,Impairment - Drug,Yes,No,Yes,White,Female
+UF2019-045,8/24/2019,3:11:00 AM,Saturday,Disturbance,Active Resister Armed,"Arm Bar, Compliance hold",42,Yes,Yes,1,25,White,Male,No Misconduct,Impairment - Drug,Yes,No,Yes,White,Female
+UF2019-046,8/22/2019,9:31:00 AM,Thursday,Disturbance,Active Resister Unarmed,Compliance hold,40,No,No,2,29,White,Male,No Misconduct,Mental Health,Yes,Yes,Yes,Black,Male
+UF2019-046,8/22/2019,9:31:00 AM,Thursday,Disturbance,Active Resister Unarmed,Leg sweep,30,No,No,2,25,White,Male,No Misconduct,Mental Health,Yes,Yes,Yes,Black,Male
+UF2019-046,8/22/2019,9:31:00 AM,Thursday,Disturbance,Active Resister Unarmed,Compliance Hold,44,No,No,1,25,White,Male,No Misconduct,Mental Health,Yes,Yes,Yes,Black,Male
+UF2019-047,6/30/2019,8:40:00 PM,Sunday,Arrest,No Force (Complaint of Inj),Complaint of injury,20,No,No,1,31,White,Male,No Misconduct,Impairment - Alcohol,Yes,No,No,White,Female
+UF2019-048,9/16/2019,10:45:00 PM,Monday,Disturbance,Active Resister Unarmed,Taser,33,Yes,No,19,50,White,Male,No Misconduct,Impairment - Unknown Type,Yes,Yes,Yes,Unknown,Male
+UF2019-054,10/6/2019,1:37:00 AM,Sunday,Disturbance,Active Fleeing,Compliance Hold,6,No,No,6,29,White,Male,No Misconduct,Active Fleeing,Yes,Yes,Yes,Hispanic,Male
+UF2019-054,10/6/2019,1:37:00 AM,Sunday,Disturbance,Active Fleeing,Leg Sweep Takedown,17,No,No,3,25,White,Male,No Misconduct,Active Fleeing,Yes,Yes,Yes,Hispanic,Male
+UF2019-054,10/6/2019,1:37:00 AM,Sunday,Disturbance,Active Fleeing,Leg Restraint,17,No,No,3,25,White,Male,No Misconduct,Active Fleeing,Yes,Yes,Yes,Hispanic,Male
+UF2019-060,10/12/2019,3:00:00 PM,Saturday,Disturbance,Active Resister Unarmed,Tackle,46,No,No,0,36,White,Male,No Misconduct,Intoxicated - Drug,Yes,No,Yes,White,Male
+UF2019-061,11/8/2019,11:45:00 PM,Friday,Disturbance,Active Fleeing,Compliance Hold,55,No,No,3,26,White,Male,No Misconduct,Active Fleeing,Yes,No,No,White,Female
+UF2019-062,11/19/2019,3:54:00 AM,Tuesday,Arrest,Active Fleeing,Taser Use,47,No,No,10,34,White,Male,No Misconduct,Injured - Other,No,Yes,No,Unknown,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Leg Restraint,13,No,No,4,30,White,Male,No Misconduct,Intoxicated - Alcohol,Yes,No,Yes,White,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Leg Restraint,13,No,No,4,30,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,White,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Vascular Restraint,13,No,No,4,30,White,Male,No Misconduct,Intoxicated - Alcohol,Yes,No,Yes,White,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Vascular Restraint,13,No,No,4,30,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,White,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Strike w/ hand-foot-etc.,13,No,No,4,30,White,Male,No Misconduct,Intoxicated - Alcohol,Yes,No,Yes,White,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Strike w/ hand-foot-etc.,13,No,No,4,30,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,White,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Arm Bar Takedown,13,No,No,4,30,White,Male,No Misconduct,Intoxicated - Alcohol,Yes,No,Yes,White,Male
+UF2019-063,12/6/2019,10:45:00 PM,Friday,Disturbance,Active Resister Unarmed,Arm Bar Takedown,13,No,No,4,30,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,Yes,White,Male

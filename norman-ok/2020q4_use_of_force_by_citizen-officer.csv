@@ -1,0 +1,20 @@
+Inc: IA No,Inc: Occurred date,Inc: Occurred time,Inc: Occurred day of week,Inc: Service rendered,Inc: Use-of-force: Reason,Inc: UOF: Type force used,Off: ID number,Inc: Officer was injured,Inc: Officer went to hospital,Snap: # years employed,Snap: Officer age,Off: Race,Off: Sex,Inc: Disposition,Inc: Officer assement of cit condition,Inc: Citizen was arrested,Inc: Citizen was injured,Inc: Citizen went to hospital,Cit: ID number,Cit: Race,Cit: Sex
+UF2020-047,10/12/2020,16:30,Monday,Arrest,Active Resister Unarmed,Taser Use,0033,Yes,Yes,20,52,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3461,Black,Male
+UF2020-047,10/12/2020,16:30,Monday,Arrest,Active Resister Unarmed,Compliance Hold,0001,Yes,Yes,11,40,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3461,Black,Male
+UF2020-047,10/12/2020,16:30,Monday,Arrest,Active Resister Unarmed,Taser Use,0001,Yes,Yes,11,40,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3461,Black,Male
+UF2020-047,10/12/2020,16:30,Monday,Arrest,Active Resister Unarmed,Strike w/ hand-foot-etc.,0140,Yes,Yes,7,39,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3461,Black,Male
+UF2020-047,10/12/2020,16:30,Monday,Arrest,Active Resister Unarmed,Compliance Hold,0114,Yes,Yes,2,29,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3461,Black,Male
+UF2020-048,10/4/2020,1:20,Sunday,Arrest,Active Resister Unarmed,Arm Bar Takedown,0052,No,No,4,26,White,Male,No Misconduct,Impairment - Alcohol,Yes,No,No,3731,White,Female
+UF2020-052,10/1/2020,19:52,Thursday,Arrest,Active Fleeing,Taser Use,0021,No,No,2,30,Black,Male,No Misconduct,Impairment - Drug,Yes,No,Yes,3729,Black,Male
+UF2020-053,10/16/2020,0:10,Friday,Arrest,Active Fleeing,Arm Bar Takedown,0009,No,No,5,35,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3749,White,Male
+UF2020-053,10/16/2020,0:10,Friday,Arrest,Active Fleeing,Tackle,0015,No,No,4,30,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3749,White,Male
+UF2020-055,11/11/2020,10:41,Wednesday,Suspicious Person,Active Resister Armed,Taser Use,0147,No,No,25,53,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3769,White,Male
+UF2020-055,11/11/2020,10:41,Wednesday,Suspicious Person,Active Resister Armed,Taser Use,0087,No,No,9,45,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3769,White,Male
+UF2020-057,11/16/2020,23:59,Monday,Disturbance,Destructive Self/Others,Restraint Device,0148,No,No,1,27,white,male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,2840,White,Male
+UF2020-057,11/16/2020,23:59,Monday,Disturbance,Destructive Self/Others,Taser Use,0148,No,No,1,27,white,male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,2840,White,Male
+UF2020-058,11/20/2020,23:00,Friday,Warrant Service,Passive Non Compliant,N/A (Complaint Only),0007,No,No,6,31,White,Male,No Misconduct,Impairment - Unknown Type,Yes,No,No,3777,Black,Male
+UF2020-058,11/20/2020,23:00,Friday,Warrant Service,Passive Non Compliant,N/A (Complaint Only),0051,No,No,6,31,Hispanic,Male,No Misconduct,Impairment - Unknown Type,Yes,No,No,3777,Black,Male
+UF2020-058,11/20/2020,23:00,Friday,Warrant Service,Passive Non Compliant,N/A (Complaint Only),0015,No,No,4,30,White,Male,No Misconduct,Impairment - Unknown Type,Yes,No,No,3777,Black,Male
+UF2020-058,11/20/2020,23:00,Friday,Warrant Service,Passive Non Compliant,N/A (Complaint Only),0053,No,No,3,35,White,Male,No Misconduct,Impairment - Unknown Type,Yes,No,No,3777,Black,Male
+UF2020-059,12/13/2020,1:00,Sunday,Warrant Service,Active Resister Unarmed,Baton Strike,0046,No,No,2,37,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3777,Black,Male
+UF2020-059,12/13/2020,1:00,Sunday,Warrant Service,Active Resister Unarmed,Taser Use,0110,No,No,2,32,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3777,Black,Male

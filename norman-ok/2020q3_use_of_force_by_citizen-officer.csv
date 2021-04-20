@@ -1,0 +1,45 @@
+Inc: IA No,Inc: Occurred date,Inc: Occurred time,Inc: Occurred day of week,Inc: Service rendered,Inc: Use-of-force: Reason,Inc: UOF: Type force used,Off: ID number,Inc: Officer was injured,Inc: Officer went to hospital,Snap: # years employed,Snap: Officer age,Off: Race,Off: Sex,Inc: Disposition,Inc: Officer assement of cit condition,Inc: Citizen was arrested,Inc: Citizen was injured,Inc: Citizen went to hospital,Cit: ID number,Cit: Race,Cit: Sex
+UF2020-025,7/14/2020,1:03,Tuesday,911 call,Active Fleeing,Tackle,0135,No,No,20,57,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,No,3673,Black,Male
+UF2020-025,7/14/2020,1:03,Tuesday,911 call,Active Fleeing,Verbal Commands,0047,No,No,10,35,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,No,3673,Black,Male
+UF2020-025,7/14/2020,1:03,Tuesday,911 call,Active Fleeing,Verbal Commands,0025,No,No,9,38,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,No,3673,Black,Male
+UF2020-026,6/25/2020,21:19,Thursday,Disturbance,Active Resister Armed,Taser Use,0137,No,No,4,34,White,Male,No Misconduct,Mental Health,Yes,Yes,Yes,3570,White,Male
+UF2020-027,6/18/2020,1:00,Thursday,Welfare Check,Active Fleeing,Taser Use,0015,No,No,3,29,White,Male,No Misconduct,Impairment - Drug,Yes,No,Yes,3659,White,Male
+UF2020-028,6/12/2020,2:00,Friday,Arrest,Active Resister Unarmed,Arm Bar Takedown,0087,Yes,Yes,8,45,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3657,Native Am,Male
+UF2020-028,6/12/2020,2:00,Friday,Arrest,Active Resister Unarmed,Vascular Restraint,0110,Yes,Yes,1,32,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3657,Native Am,Male
+UF2020-029,6/17/2020,20:54,Wednesday,Noise Complaint,Active Resister Unarmed,Vascular Restraint,0137,Yes,No,4,34,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3660,White,Female
+UF2020-029,6/17/2020,20:54,Wednesday,Noise Complaint,Active Resister Unarmed,Arm Bar Takedown,0137,Yes,No,4,34,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3660,White,Female
+UF2020-029,6/17/2020,20:54,Wednesday,Noise Complaint,Active Resister Unarmed,Verbal Commands,0137,Yes,No,4,34,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3660,White,Female
+UF2020-030,6/8/2020,0:55,Monday,Disturbance,Active Resister Unarmed,Taser Use,0135,No,No,20,57,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3648,White,Male
+UF2020-032,8/2/2020,2:15,Sunday,Arrest,Active Resister Unarmed,Verbal Commands,0015,Yes,No,3,30,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,No,3687,White,Male
+UF2020-032,8/2/2020,2:15,Sunday,Arrest,Active Resister Unarmed,Leg Sweep Takedown,0015,Yes,No,3,30,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,No,3687,White,Male
+UF2020-032,8/2/2020,2:15,Sunday,Arrest,Active Resister Unarmed,Compliance Hold,0015,Yes,No,3,30,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,No,3687,White,Male
+UF2020-032,8/2/2020,2:15,Sunday,Arrest,Active Resister Unarmed,Strike w/ hand-foot-etc.,0138,Yes,No,3,37,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,No,3687,White,Male
+UF2020-033,7/23/2020,6:10,Thursday,Arrest,Active Resister Unarmed,Verbal Commands,0033,No,No,20,51,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3681,Black,Male
+UF2020-033,7/23/2020,6:10,Thursday,Arrest,Active Resister Unarmed,Compliance Hold,0033,No,No,20,51,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3681,Black,Male
+UF2020-033,7/23/2020,6:10,Thursday,Arrest,Active Resister Unarmed,Verbal Commands,0078,No,No,11,39,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3681,Black,Male
+UF2020-033,7/23/2020,6:10,Thursday,Arrest,Active Resister Unarmed,Compliance Hold,0078,No,No,11,39,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3681,Black,Male
+UF2020-034,7/21/2020,20:30,Tuesday,Arrest,Active Resister Unarmed,Compliance Hold,0001,No,No,11,39,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,No,No,3680,Unknown,Unknown
+UF2020-034,7/21/2020,20:30,Tuesday,Arrest,Active Resister Unarmed,Verbal Commands,0001,No,No,11,39,White,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,No,No,3680,Unknown,Unknown
+UF2020-035,7/22/2020,1:48,Wednesday,Disturbance,Active Resister Armed,Taser Use,0136,No,No,6,32,Black,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3479,Unknown,Male
+UF2020-036,7/9/2020,15:32,Thursday,Warrant Service,Active Resister Unarmed,Arm Bar Takedown,0022,No,No,21,45,White,Male,No Misconduct,Impairment - Alcohol,No,No,No,1902,White,Male
+UF2020-037,6/20/2020,23:46,Saturday,Arrest,Active Resister Unarmed,Strike w/ hand-foot-etc.,0043,No,No,2,28,White,Male,No Misconduct,Highly Agitated/Upset,Yes,No,No,3662,White,Male
+UF2020-038,7/11/2020,1:35,Saturday,Disturbance,Active Resister Unarmed,Leg Restraint,0015,No,No,3,30,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3672,White,Male
+UF2020-038,7/11/2020,1:35,Saturday,Disturbance,Active Resister Unarmed,Verbal Commands,0021,No,No,2,30,Black,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3672,White,Male
+UF2020-038,7/11/2020,1:35,Saturday,Disturbance,Active Resister Unarmed,Compliance Hold,0021,No,No,2,30,Black,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3672,White,Male
+UF2020-038,7/11/2020,1:35,Saturday,Disturbance,Active Resister Unarmed,Compliance Hold,0110,No,No,1,32,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3672,White,Male
+UF2020-038,7/11/2020,1:35,Saturday,Disturbance,Active Resister Unarmed,Verbal Commands,0110,No,No,1,32,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3672,White,Male
+UF2020-038,7/11/2020,1:35,Saturday,Disturbance,Active Resister Unarmed,Leg Restraint,0139,No,No,0,21,white,male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3672,White,Male
+UF2020-039,8/11/2020,22:35,Tuesday,Investigation,Active Resister Unarmed,Arm Bar Takedown,0007,No,No,5,30,White,Male,No Misconduct,None Detected,Yes,Yes,Yes,3690,White,Male
+UF2020-040,7/31/2020,21:43,Friday,Disturbance,Active Resister Armed,Firearm Pointing,0013,No,No,5,31,White,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3710,Hispanic,Male
+UF2020-040,7/31/2020,21:43,Friday,Disturbance,Active Resister Armed,Taser Use,0021,No,No,2,30,Black,Male,No Misconduct,Highly Agitated/Upset,Yes,Yes,Yes,3710,Hispanic,Male
+UF2020-041,8/19/2020,23:00,Wednesday,Complaint Investigation,Passive Non Compliant,Verbal Commands,0025,No,No,9,38,White,Male,No Misconduct,Impairment - Drug,No,Yes,No,3695,White,Male
+UF2020-042,8/29/2020,21:25,Saturday,Arrest,Active Resister Unarmed,Verbal Commands,0016,No,No,3,28,White,Male,No Misconduct,None Detected,Yes,Yes,No,3705,White,Male
+UF2020-042,8/29/2020,21:25,Saturday,Arrest,Active Resister Unarmed,Compliance Hold,0016,No,No,3,28,White,Male,No Misconduct,None Detected,Yes,Yes,No,3705,White,Male
+UF2020-043,8/13/2020,2:16,Thursday,Foot Pursuit,Active Fleeing,Taser Use,0135,No,No,20,57,White,Male,No Misconduct,Impairment - Alcohol,Yes,Yes,Yes,3692,White,Male
+UF2020-044,9/6/2020,17:22,Sunday,Drug Investigation,Active Resister Unarmed,Compliance Hold,0049,Yes,Yes,6,32,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3712,White,Male
+UF2020-044,9/6/2020,17:22,Sunday,Drug Investigation,Active Resister Unarmed,Strike w/ hand-foot-etc.,0020,Yes,Yes,2,32,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3712,White,Male
+UF2020-044,9/6/2020,17:22,Sunday,Drug Investigation,Active Resister Unarmed,Baton Presentation,0020,Yes,Yes,2,32,White,Male,No Misconduct,Impairment - Drug,Yes,Yes,Yes,3712,White,Male
+UF2020-045,9/26/2020,17:35,Saturday,Suicide Attempt,Active Resister Armed,Verbal Commands,0006,No,No,6,30,White,Male,No Misconduct,Highly Agitated/Upset,No,No,Yes,3725,Black,Male
+UF2020-045,9/26/2020,17:35,Saturday,Suicide Attempt,Active Resister Armed,Verbal Commands,0053,No,No,3,35,White,Male,No Misconduct,Highly Agitated/Upset,No,No,Yes,3725,Black,Male
+UF2020-045,9/26/2020,17:35,Saturday,Suicide Attempt,Active Resister Armed,Taser Use,0138,No,No,3,37,White,Male,No Misconduct,Highly Agitated/Upset,No,No,Yes,3725,Black,Male
+UF2020-046,9/5/2020,21:12,Saturday,Disturbance,Destructive Self/Others,Restraint Device,0021,No,No,2,30,Black,Male,No Misconduct,Impairment - Alcohol and Drugs,Yes,Yes,Yes,3713,White,Male
